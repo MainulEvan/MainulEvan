@@ -15,24 +15,23 @@
 ---
 
 ### 💼 What I Do
-- 📊 **Accounting & Bookkeeping** – QuickBooks Online, Xero, Excel  
-- 💻 **Freelance Accounting** – Financial reports, reconciliations, and data entry  
-- 🎯 **Business Development** – Helping small businesses grow efficiently
+- 📊 **Accounting & Bookkeeping** – QuickBooks Online, Xero, with Excel  
+- 💻 **Freelance Accounting** – Financial reports, reconciliations, and tax-ready data 
+- 🎯 **Business Development** – Helping small & medium businesses, and ecommerce sellers grow efficiently
 
 ---
 
 ### 🛠 Skills
-- **Accounting Tools:** QuickBooks Online, Xero, Excel  
+- **Accounting Tools:** QuickBooks Online, Xero, Excel, A2X, Link My Books, Hubdoc
 - **Business Skills:** Management, Administration, Operations  
-- **Languages:** Bengali (Native), English (Intermediate)  
-- **Other:** Microsoft Office, Google Workspace
+- **Languages:** Bengali (Native), English (Fluent)  
 
 ---
 
 ### 📫 Contact Me
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)  
-- 🌐 GitHub: [MainulEvan](https://github.com/MainulEvan)  
+- 📧 Email: [evanmkt@gmail.com](mailto:your-email@example.com)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/mainul-evan/](https://www.linkedin.com/)  
+- 🌐 GitHub: [https://github.com/MainulEvan/](https://github.com/MainulEvan)  
 
 ---
 
