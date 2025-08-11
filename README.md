@@ -2,7 +2,7 @@
 
 People are overwhelmed here
 
-<!--https://github.com/MainulEvan/MainulEvan/blob/main/Mohammad%20Mainul%20Hosen.png?raw=true
+<!--
 **MainulEvan/MainulEvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
