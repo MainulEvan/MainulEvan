@@ -3,9 +3,13 @@
 ## 👋 Hi there, I'm Mohammad Mainul Hosen
 
 🌟 **Certified QuickBooks & Xero ProAdvisor**
+
 🌟 **11 Years of Banking & Bookkeeping Experience**
+
 🌟 **Contributed in Manager & Manager Operations role**
+
 🌟 **Passionate about Accounting, QuickBooks, and Business Solutions**  
+
 📍 Based in Bangladesh | 🌐 Open to remote work globally
 
 ---
